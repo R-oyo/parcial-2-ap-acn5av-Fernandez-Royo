@@ -1,1 +1,1 @@
-# parcial-2-ap-acn5av-Fernandez-Royo
+# “TurnoYa” – Sistema de turnos online para pequeños negocios
