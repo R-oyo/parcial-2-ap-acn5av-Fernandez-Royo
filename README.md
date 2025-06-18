@@ -60,14 +60,3 @@ Se ha creado un tablero para el seguimiento del proyecto. Incluye columnas: **Ba
 [https://trello.com/invite/b/68520c7367650e74c2c3a11d/ATTIc86b4110a776daff4cbdcc6dbad463d5F7000E79/turnoya-parcial-2-ap-acn5av-fernandez-royo](https://trello.com/invite/b/68520c7367650e74c2c3a11d/ATTIc86b4110a776daff4cbdcc6dbad463d5F7000E79/turnoya-parcial-2-ap-acn5av-fernandez-royo)
 
 ---
-
-## 📁 Estructura del repositorio
-📦 parcial-2-ap-acn5av-fernandez-royo
-┣ 📂 docs
-┃ ┣ 📄 objetivo-smart-okr.md
-┃ ┣ 📄 stakeholders.md
-┃ ┣ 📄 metodologia-agil.md
-┃ ┗ 📄 requerimientos.md
-┣ 📂 codigo-fuente
-┃ ┗ 📄 (simulaciones de desarrollo en próximas etapas)
-┗ 📄 README.md
