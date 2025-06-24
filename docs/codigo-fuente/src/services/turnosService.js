@@ -1,4 +1,4 @@
-// Lógica simulada para gestión de turnos
+// Servicio de gestión de turnos
 
 export const turnos = []
 export const horariosDisponibles = [
@@ -11,6 +11,7 @@ export const horariosDisponibles = [
   { id: 7, dia: 'Domingo', horaInicio: '10:00', horaFin: '14:00', disponible: false }
 ]
 
+// Funciones para gestión de turnos
 export function reservarTurno(usuario, fecha) {
   turnos.push({ usuario, fecha })
 }

@@ -1,7 +1,7 @@
 // Componente simulado para HU2 – Cancelar turno
 
 import { useState } from 'react'
-import { turnos, cancelarTurno } from './GestorTurnos.js'
+import { turnos, cancelarTurno } from '../../services/turnosService.js'
 
 function CancelarTurno() {
   const [usuario, setUsuario] = useState('')
