@@ -7,7 +7,7 @@ import {
   agregarHorario,
   eliminarHorario,
   obtenerTurnosReservados
-} from './GestorTurnos.js'
+} from '../../services/turnosService.js'
 
 function GestionHorarios() {
   const [horarios, setHorarios] = useState([])
