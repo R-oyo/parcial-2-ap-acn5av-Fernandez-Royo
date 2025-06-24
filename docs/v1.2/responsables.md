@@ -4,7 +4,7 @@
 |-------------------------------------------|-----------------|
 | HU1 – Ver horarios disponibles            | Ramiro Royo     |
 | HU2 – Cancelar turno                      | Fernandez Agustin     |
-| HU3 – Gestión de horarios (backend)       | [Apellido2]     |
+| HU3 – Gestión de horarios (backend)       | Fernandez Agustin     |
 | Crear formulario de reserva               | Ramiro Royo     |
 | Login con Firebase                        | [Apellido2]     |
 | Base de datos y lógica de horarios        | [Apellido2]     |
