@@ -3,7 +3,7 @@
 | Tarea / Historia de Usuario                | Responsable     |
 |-------------------------------------------|-----------------|
 | HU1 – Ver horarios disponibles            | Ramiro Royo     |
-| HU2 – Cancelar turno                      | Ramiro Royo     |
+| HU2 – Cancelar turno                      | Fernandez Agustin     |
 | HU3 – Gestión de horarios (backend)       | [Apellido2]     |
 | Crear formulario de reserva               | Ramiro Royo     |
 | Login con Firebase                        | [Apellido2]     |
