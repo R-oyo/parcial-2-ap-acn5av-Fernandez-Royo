@@ -68,3 +68,4 @@ https://trello.com/b/x1isc3AT
 - [v1.2 – Estimaciones y desarrollo](docs/v1.2/)
 - [v1.3 – Cambios y adaptación](docs/v1.3/)
 - [v1.4 – Cierre final](docs/v1.4/)
+- [v1.4 – Login Firebase](docs/v1.5/)
