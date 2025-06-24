@@ -57,7 +57,7 @@ Se utilizará **Scrum** como base de trabajo, con sprints semanales y reuniones 
 Se ha creado un tablero para el seguimiento del proyecto. Incluye columnas: **Backlog**, **Design**, **To Do**, **Doing**, **Code Review**, **Testing**, **Done**.
 
 🔗 **Enlace al tablero:**  
-[https://trello.com/invite/b/68520c7367650e74c2c3a11d/ATTIc86b4110a776daff4cbdcc6dbad463d5F7000E79/turnoya-parcial-2-ap-acn5av-fernandez-royo](https://trello.com/invite/b/68520c7367650e74c2c3a11d/ATTIc86b4110a776daff4cbdcc6dbad463d5F7000E79/turnoya-parcial-2-ap-acn5av-fernandez-royo)
+https://trello.com/b/x1isc3AT
 
 ---
 
